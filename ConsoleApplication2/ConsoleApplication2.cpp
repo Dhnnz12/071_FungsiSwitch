@@ -60,6 +60,9 @@ int main() {
 				cout << "Hasil Pengurangan = " << pengurangan(bilSatu, bilDua) << endl;
 				break;
 
+				case 5:
+					break;
+				
 		}
 	}
 }
