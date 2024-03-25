@@ -50,6 +50,15 @@ int main() {
 				cout << "Hasil Pembagian = " << pembagian(bilSatu, bilDua) << endl;
 				break;
 
+				case 1;
+				input();
+				cout << "Hasil Perkalian = " << perkalian(bilSatu, bilDua) << endl;
+				break;
+				
+				case 1;
+				input();
+				cout << "Hasil Pengurangan = " << pengurangan(bilSatu, bilDua) << endl;
+				break;
 		}	
 	}
 }
